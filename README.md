@@ -1,3 +1,11 @@
+
+
+# React Color Palette Generator App
+
+
+![React Todo app Demo](./src/vid.gif)
+
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
